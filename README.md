@@ -6,7 +6,7 @@
 
 
 ## 部署
-[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/imaliang/tmdb-proxy)
+[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/wenfer/tmdb-proxy)
 
 
 ## 使用方法
